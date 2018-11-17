@@ -1,7 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d69787cd-f413-4804-9b11-c74dd35187de" name="Default Changelist" comment="" />
+    <list default="true" id="d69787cd-f413-4804-9b11-c74dd35187de" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/addNewFace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faces-train.py" beforeDir="false" afterPath="$PROJECT_DIR$/trainning.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/17.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/18.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/19.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/20.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/21.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/21.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/22.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/23.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/24.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/24.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/25.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/26.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/26.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/27.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/28.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/28.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/29.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/30.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/30.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/31.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/31.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/32.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/33.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/33.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/34.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/34.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/35.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/35.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/36.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/37.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/37.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/38.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/38.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/39.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/39.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/40.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/40.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/41.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/41.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/42.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/42.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/43.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/43.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/44.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/44.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/45.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/45.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/46.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/46.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/47.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/47.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/48.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/49.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/49.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/50.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/51.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/51.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/52.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/52.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/53.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/53.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/54.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/54.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/55.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/55.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/56.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/56.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/57.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/58.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/58.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/59.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/59.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/60.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/61.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/61.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/62.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/62.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/63.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/63.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/64.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/64.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/65.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/65.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/66.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/66.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/67.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/67.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/68.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/68.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/69.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/69.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/70.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/70.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/71.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/71.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/72.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/72.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/73.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/73.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/74.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/74.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/75.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/75.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/76.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/76.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/77.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/77.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/78.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/78.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/79.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/79.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/80.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/80.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/81.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/81.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/82.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/82.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/83.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/83.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/84.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/84.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/85.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/85.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/86.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/86.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/87.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/87.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/88.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/88.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/89.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/89.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/90.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/90.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/91.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/91.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/92.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/92.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/93.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/93.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/94.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/94.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/95.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/95.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/96.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/96.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/97.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/97.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/98.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/98.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/melisse/99.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/melisse/99.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/recognizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainner.yml" beforeDir="false" afterPath="$PROJECT_DIR$/trainner.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,42 +119,46 @@
     <session id="218373509">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Python Console" value="33" />
-          <entry key="py" value="2218" />
+          <entry key="dummy" value="22" />
+          <entry key="py" value="3075" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="2251" />
+          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="Python" value="3108" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="png" value="1" />
-          <entry key="py" value="1" />
+          <entry key="py" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="1" />
-          <entry key="Python" value="1" />
+          <entry key="Python" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/recognizer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+            <state relative-caret-position="30">
+              <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -55,11 +166,39 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/faces-train.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/addNewFace.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+            <state relative-caret-position="60">
+              <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+                <marker date="1542476347977" expanded="true" signature="404:428" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#21#0" expanded="true" />
+                <marker date="1542477445002" expanded="true" signature="71:72" ph="..." />
+                <marker date="1542477445002" expanded="true" signature="71:75" ph="..." />
+                <marker date="1542477445002" expanded="true" signature="195:240" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/trainning.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-30">
+              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -76,11 +215,25 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>a29bfe</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>0984e3</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/faces-train.py" />
+        <option value="$PROJECT_DIR$/addNewFace.py" />
+        <option value="$PROJECT_DIR$/interface.py" />
+        <option value="$PROJECT_DIR$/recognizer.py" />
       </list>
     </option>
   </component>
@@ -96,11 +249,13 @@
     <option name="width" value="1221" />
     <option name="height" value="660" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -122,7 +277,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,15 +338,9 @@
     <frame x="73" y="37" width="1221" height="660" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16255319" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" weight="0.3293919" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.5305343" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -200,12 +348,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" x="0" y="0" width="286" height="528" id="Documentation" side_tool="true" />
-      <window_info anchor="right" id="SciView" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.53154874" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3293919" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" x="0" y="0" width="286" height="528" id="Documentation" order="4" side_tool="true" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -215,25 +369,54 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/my-image.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/my-image.png" />
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/tkinter/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        <state relative-caret-position="15">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trainning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
           <folding>
-            <element signature="e#0#18#0" expanded="true" />
+            <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/faces-train.py">
+    <entry file="file://$PROJECT_DIR$/addNewFace.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        <state relative-caret-position="60">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
+            <marker date="1542476347977" expanded="true" signature="404:428" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="59" column="30" selection-start-line="59" selection-start-column="30" selection-end-line="59" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+            <marker date="1542477445002" expanded="true" signature="71:72" ph="..." />
+            <marker date="1542477445002" expanded="true" signature="71:75" ph="..." />
+            <marker date="1542477445002" expanded="true" signature="195:240" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recognizer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="44" column="26" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
